@@ -13,5 +13,5 @@ Guide:
 - Force stop the added app
 
 Video Guide:
-https://github.com/rushiranpise/Hide-Debugging/assets/37355997/907e8269-d5ee-4d41-9045-f46a66e68742
+<video src='https://github.com/rushiranpise/Hide-Debugging/assets/37355997/907e8269-d5ee-4d41-9045-f46a66e68742'/>
 
